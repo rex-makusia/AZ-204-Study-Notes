@@ -26,3 +26,12 @@
 34. Note on using VS Code as editor of choice
 35. Quick Review on Virtual Machines
 36. Quiz 1:Short Quiz
+
+Azure Supports
+- Python
+- JavaScript
+- Java
+- .NET
+- Go
+
+Install ASP.NET Core 8.0.409
