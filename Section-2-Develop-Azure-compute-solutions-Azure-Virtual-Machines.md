@@ -35,3 +35,26 @@ Azure Supports
 - Go
 
 Install ASP.NET Core 8.0.409
+
+## Install Internet Information Services
+1. Lauch Windows Server 2022 DataCenter-x64 Gen 2
+2. Select **Add roles and features**
+3. Role-based or feature-based installation
+4. Select a server from the server pool
+5. Web Server (IIS)
+6. Add Features
+7. Next
+8. Next
+9. Next
+10. Next
+11. Install
+12. Close
+
+## Setup Inbound rule
+- Create a inbound port rule on for HTTP on port 80
+
+## Load the Internet Information Services
+- Copy the IP address of the VM
+- Load it on the Web browser
+
+## Install 
